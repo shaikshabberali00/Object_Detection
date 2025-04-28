@@ -1,0 +1,13 @@
+ultralytics
+torch
+torchvision
+torchaudio
+streamlit
+opencv-python-headless
+matplotlib
+streamlit-webrtc
+Pillow 
+numpy 
+av
+seaborn
+
